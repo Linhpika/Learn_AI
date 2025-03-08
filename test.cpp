@@ -2,5 +2,5 @@
 using namespace std;
 signed main()
 {
-    cout << "nigga";
+    cout << "lmao";
 }
